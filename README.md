@@ -14,6 +14,7 @@
 </p>
 <p>
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 <p>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-grey?style=flat-square&logo=laravel&logoColor=white" />

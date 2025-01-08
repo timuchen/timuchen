@@ -15,6 +15,9 @@
 <p>
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
+<p>
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-v10-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+</p>
 <!--
 **timuchen/timuchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

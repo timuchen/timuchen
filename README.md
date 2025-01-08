@@ -10,7 +10,7 @@
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="Java Script" src="https://img.shields.io/badge/js-blue?style=for-the-badge&logo=js&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/ts-blue?style=for-the-badge&logo=ts&logoColor=white" />
 </p>
 <p>
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />

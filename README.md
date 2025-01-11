@@ -21,6 +21,7 @@
 </p>
 <p>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-grey?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="QT" src="https://img.shields.io/badge/language-C%2B%2B%20%2F%20QT-orange?style=flat-square&logo=QT&logoColor=white" />
 </p>
 <!--
 **timuchen/timuchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
